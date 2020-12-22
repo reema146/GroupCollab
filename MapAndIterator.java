@@ -16,6 +16,8 @@ public class MapAndIterator {
 		map.put(2, "veena");
 		map.put(3, "swapna");
 		map.put(4, "kiran");
+		map.put(5, "suhas");
+		map.put(6, "raghu");
 		System.out.println(map);
 		System.out.println(map.get(1));
 		System.out.println(map.isEmpty());
